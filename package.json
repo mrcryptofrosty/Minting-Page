@@ -1,0 +1,51 @@
+{
+  "name": "frosty-minting-page",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "frosty-sdk": "^0.2.10",
+    "@rainbow-me/rainbowkit": "^0.7.0",
+    "@vercel/analytics": "^0.1.5",
+    "ethers": "^5.0.0",
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-toastify": "^9.1.1",
+    "wagmi": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35",
+    "@types/react": "^18.0.9",
+    "autoprefixer": "^10.4.12",
+    "eslint": "^8.15.0",
+    "eslint-config-next": "^13.0.0",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.7.2"
+  },
+  "description": "This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcryptofrosty/Minting-Page.git"
+  },
+  "keywords": [
+    "nfts",
+    "nft-generator",
+    "web3-app",
+    "nextjs",
+    "nft-react-app"
+  ],
+  "author": "cdsiren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcryptofrosty/Minting-Page/issues"
+  },
+  "homepage": "https://github.com/mrcryptofrosty/Minting-Page#readme"
+}
