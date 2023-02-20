@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <>
       <nav className={`${styles.navbar} w-full flex flex-wrap items-center sm:justify-between justify-center`} >
-        <NavItem href="http://frosty.app/" openInNewTab><Image width={100} height={40} src="/images/frosty.png" alt="frosty" /></NavItem>  
+        <NavItem href="http://frosty.app/" openInNewTab><Image width={50} height={20} src="/images/frosty.png" alt="frosty" /></NavItem>  
         <div className="flex items-center gap-4">
           <ConnectButton />
           <Link href='https://github.com/mrcryptofrosty/Minting-Page' target='_blank'>

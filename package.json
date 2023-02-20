@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "frosty-sdk": "^0.2.10",
+    "frosty-sdk": "^0.2.11",
     "@rainbow-me/rainbowkit": "^0.7.0",
     "@vercel/analytics": "^0.1.5",
     "ethers": "^5.0.0",
